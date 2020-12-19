@@ -26,6 +26,8 @@ yarn
 
 Below we have the commands available for you to use the cli.
 
+> the created to-do are stored in the same directory of the tool, in the todos.json file.
+
 __Add a new to-do__
 
 ```sh
